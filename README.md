@@ -53,7 +53,7 @@ Je suis actuellement en pleine spécialisation DevOps, passionné par l'automati
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mehdibkb&show_icons=true&theme=github_dark&hide_border=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mehdibkb&show_icons=true&hide_border=true">
+    <img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdibkb&layout=compact&hide_border=true">
   </picture>
   <br/><br/>
   <picture>
