@@ -48,7 +48,7 @@ Je suis actuellement en pleine spécialisation DevOps, passionné par l'automati
 
 ---
 
-## 📊 Mes Statistiques GitHub
+## Mes Statistiques GitHub
 
 <div align="center">
   <picture>
