@@ -15,14 +15,14 @@
 
 Je suis actuellement en pleine spécialisation DevOps, passionné par l'automatisation, l'Infrastructure as Code (IaC) et la culture CI/CD. Mon objectif est de concevoir, déployer et maintenir des infrastructures résilientes et scalables. 
 
-- 🎓 **Formation :** En route pour un Mastère DevOps à Sup de Vinci (Rennes).
-- 🎯 **Recherche actuelle :** Je suis à la recherche d'une **Alternance en DevOps / Cloud** pour Septembre 2026 (Rythme : 3 semaines entreprise / 1 semaine école).
-- 🛠️ **Projet du moment :** J'ai développé un pipeline Python complet qui interroge les API de l'État et utilise l'IA pour automatiser ma recherche d'alternance !
-- 📫 **Me contacter :** [https://www.linkedin.com/in/mehdi-boukabou-360574343/]
+- **Formation :** En route pour un Mastère DevOps à Sup de Vinci (Rennes).
+- **Recherche actuelle :** Je suis à la recherche d'une **Alternance en DevOps / Cloud** pour Septembre 2026 (Rythme : 3 semaines entreprise / 1 semaine école).
+- **Projet du moment :** J'ai développé un pipeline Python complet qui interroge les API de l'État et utilise l'IA pour automatiser ma recherche d'alternance !
+- **Me contacter :** [https://www.linkedin.com/in/mehdi-boukabou-360574343/]
 
 ---
 
-## 🚀 Ma Stack Technique (En développement & en cours de maitrise)
+## Ma Stack Technique (En développement & en cours de maitrise)
 
 <div align="center">
   
@@ -51,7 +51,13 @@ Je suis actuellement en pleine spécialisation DevOps, passionné par l'automati
 ## 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehdibkb&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mehdibkb&show_icons=true&theme=github_dark&hide_border=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mehdibkb&show_icons=true&hide_border=true">
+  </picture>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdibkb&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mehdibkb&theme=github_dark&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdibkb&hide_border=true">
+  </picture>
 </div>
