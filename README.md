@@ -9,6 +9,7 @@
   
 </div>
 
+
 Je suis actuellement en pleine spécialisation DevOps, passionné par l'automatisation, l'Infrastructure as Code (IaC) et la culture CI/CD. Mon objectif est de concevoir, déployer et maintenir des infrastructures résilientes et scalables. 
 
 - **Formation :** En route pour un Mastère DevOps à Sup de Vinci (Rennes).
@@ -18,7 +19,12 @@ Je suis actuellement en pleine spécialisation DevOps, passionné par l'automati
 
 ---
 
+<div align="center">
+  
 ## Ma Stack Technique (En développement & en cours de maitrise)
+
+</div>
+
 
 <div align="center">
   
