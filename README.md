@@ -3,14 +3,6 @@
   <h3> Futur Ingénieur DevOps & Cloud </h3>
 </div>
 
-<br/>
-
-<div align="center">
-  <i>« L'automatisation n'est pas qu'un outil, c'est un état d'esprit. »</i>
-</div>
-
-<br/>
-
 ## 👨‍💻 À propos de moi
 
 Je suis actuellement en pleine spécialisation DevOps, passionné par l'automatisation, l'Infrastructure as Code (IaC) et la culture CI/CD. Mon objectif est de concevoir, déployer et maintenir des infrastructures résilientes et scalables. 
