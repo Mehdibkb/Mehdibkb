@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Bonjour, je suis Mehdi Yacine BOUKABOU</h1>
-  <h3>☁️ Futur Ingénieur DevOps & Cloud </h3>
+  <h1> Bonjour, je suis Mehdi BOUKABOU</h1>
+  <h3> Futur Ingénieur DevOps & Cloud </h3>
 </div>
 
 <br/>
